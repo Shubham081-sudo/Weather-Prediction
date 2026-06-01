@@ -4494,4 +4494,6 @@ date,temperaturemin,temperaturemax,precipitation,snowfall,snowdepth,avgwindspeed
 2019-03-15,57.9,73.9,0.31,0,0,13.42,220,25.95,220,35.12,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No
 2019-03-17,35.1,57,0,0,0,3.8,250,12.97,250,14.09,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
 2019-03-26,39,55.9,0.06,0,0,10.07,40,21.03,30,25.95,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+2019-04-09,61,73.9,0.04,0,0,5.82,250,12.08,240,16.11,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+2019-04-23,46,81,0,0,0,7.38,240,16.11,230,19.91,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
 
